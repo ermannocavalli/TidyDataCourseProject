@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Course Project for Getting and Cleaning Data
 Ermanno Cavalli  
 Saturday, May 23, 2015  
@@ -167,3 +168,6 @@ we now group by subject and activity
 ```r
         write.table(summarizedTidyData, "tidyDataset.txt", row.names = FALSE)
 ```
+=======
+# TidyDataCourseProject
+>>>>>>> f48cc348bbf69884ef3afc324202195b815ca826
